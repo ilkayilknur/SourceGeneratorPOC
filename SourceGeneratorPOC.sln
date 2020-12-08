@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceGeneratorPOC", "SourceGeneratorPOC\SourceGeneratorPOC.csproj", "{ADDE8266-9905-4429-B3F2-CC133A755B8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceGeneratorTest", "SourceGeneratorTest\SourceGeneratorTest.csproj", "{6C0E2A27-4EFE-4764-B791-489C683E00B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADDE8266-9905-4429-B3F2-CC133A755B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADDE8266-9905-4429-B3F2-CC133A755B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADDE8266-9905-4429-B3F2-CC133A755B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADDE8266-9905-4429-B3F2-CC133A755B8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C0E2A27-4EFE-4764-B791-489C683E00B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C0E2A27-4EFE-4764-B791-489C683E00B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C0E2A27-4EFE-4764-B791-489C683E00B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C0E2A27-4EFE-4764-B791-489C683E00B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACC484A0-558E-4834-A217-F542C09CBD6C}
+	EndGlobalSection
+EndGlobal
